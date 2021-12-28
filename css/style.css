@@ -1,0 +1,15 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.navbar{
+    background: yellow !important;
+    height: 100px;
+}
+img{
+    width: 100%;
+}
+footer div{
+    background: yellow;
+    height: 150px;
+}
